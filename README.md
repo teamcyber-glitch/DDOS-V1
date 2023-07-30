@@ -24,7 +24,7 @@ I am not responsible for any damage done using this tool. This tool should only 
 
   ```bash
     cd DDOS-V1
-    phython2 DarkNight.py https://www.target.com
+    python2 DarkNight.py https://www.target.com
   ```
   </details>
 
