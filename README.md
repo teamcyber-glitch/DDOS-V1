@@ -9,15 +9,14 @@
   cd DDOS-V1
   ```
   </details>
-# Note
-Disclaimer: I am not responsible for any damage done using this tool. This tool should only be used for educational purposes and for DDOS testing.
+# Note <br>
+<h1>Disclaimer</h1> <br>
+I am not responsible for any damage done using this tool. This tool should only be used for educational purposes and for DDOS testing.
 
-###Compatibility:
-
-Any platform using Python 2.7
-###Requirements:
-
-Python 2.7
+### Compatibility:
+  • Any platform using Python 2.7
+### Requirements:
+  •Python 2.7
 
 # Usage:
 <details open>
