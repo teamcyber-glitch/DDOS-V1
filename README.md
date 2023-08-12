@@ -1,3 +1,4 @@
+<h1 align="center">EXECUTOR DDOS-V1 </h1>
 <details open>
   <summary><strong> Tutorial Install DDOS-V1</strong></summary>
 
@@ -9,16 +10,19 @@
   cd DDOS-V1
   ```
   </details>
-# Note <br>
+
 <h1>Disclaimer</h1> <br>
 I am not responsible for any damage done using this tool. This tool should only be used for educational purposes and for DDOS testing.
-
-### Compatibility:
+<br>
+<b>Compatibility : </b>
+<br>
   • Any platform using Python 2.7
-### Requirements:
+<br>
+<b>Requirements : </b>
+<br>
   •Python 2.7
 
-# Usage:
+<h1 align="center"> Usage: </h1>
 <details open>
   <summary><strong> How to Run </strong></summary>
 
